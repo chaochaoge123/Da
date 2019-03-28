@@ -10,3 +10,15 @@ print(food_info .columns) # 列名
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -68,14 +68,12 @@ print(new_drop  )
 row_indx = titanic .loc[2,"Age"]
 print(row_indx )
 
-
-
-
-
-
-
-
-
+# 取年龄排名前十的数据
+new_tit= titanic .sort_values ("Age",ascending= False)
+print(new_tit[0:5] )
+# 按索引
+t = new_tit .reset_index(drop=True )
+print(t[0:5])
 
 
 

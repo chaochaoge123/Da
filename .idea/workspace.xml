@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e996d5aa-7c36-4abb-9c6a-00474876f97b" name="Default" comment="" />
+    <list default="true" id="e996d5aa-7c36-4abb-9c6a-00474876f97b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/泰坦尼克号02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ut1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ut1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/泰坦尼克号.py" beforeDir="false" afterPath="$PROJECT_DIR$/泰坦尼克号01.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +16,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Pandas$.coverage" NAME="泰坦尼克号 Coverage Results" MODIFIED="1553766167207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pandas$02.coverage" NAME="泰坦尼克号02 Coverage Results" MODIFIED="1553773963278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pandas$.coverage" NAME="泰坦尼克号 Coverage Results" MODIFIED="1553772026266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pandas$ut2.coverage" NAME="ut2 Coverage Results" MODIFIED="1553756519405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pandas$ut1.coverage" NAME="ut1 Coverage Results" MODIFIED="1553754406647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -25,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ut1.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ut1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ut1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="9" lean-forward="true" selection-end-line="9" />
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -37,17 +44,29 @@
       <file leaf-file-name="ut2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ut2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
+            <state relative-caret-position="168">
               <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="泰坦尼克号.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/泰坦尼克号.py">
+      <file leaf-file-name="泰坦尼克号02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/泰坦尼克号02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="1316">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+              <folding>
+                <element signature="e#1#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="泰坦尼克号01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/泰坦尼克号01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -67,8 +86,8 @@
       <file leaf-file-name="frame.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/python3.6/Lib/site-packages/pandas/core/frame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="5752" column="37" lean-forward="true" selection-start-line="5752" selection-start-column="37" selection-end-line="5752" selection-end-column="37" />
+            <state relative-caret-position="-77">
+              <caret line="6309" column="8" selection-start-line="6309" selection-start-column="8" selection-end-line="6309" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -87,12 +106,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ut1.py" />
         <option value="$PROJECT_DIR$/ut2.py" />
+        <option value="$PROJECT_DIR$/ut1.py" />
         <option value="$PROJECT_DIR$/泰坦尼克号.py" />
+        <option value="$PROJECT_DIR$/泰坦尼克号01.py" />
+        <option value="$PROJECT_DIR$/泰坦尼克号02.py" />
       </list>
     </option>
   </component>
@@ -105,12 +129,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="328" />
-    <option name="y" value="815" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="197" />
+    <option name="y" value="36" />
     <option name="width" value="1707" />
-    <option name="height" value="808" />
+    <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -157,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.泰坦尼克号">
+  <component name="RunManager" selected="Python.泰坦尼克号02">
     <configuration name="泰坦尼克号" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pandas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +196,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰坦尼克号.py" />
+      <option name="SCRIPT_NAME" value="D:\object\Pandas\泰坦尼克号01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="泰坦尼克号02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/泰坦尼克号02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,9 +263,11 @@
       <item itemvalue="Python.ut1" />
       <item itemvalue="Python.ut2" />
       <item itemvalue="Python.泰坦尼克号" />
+      <item itemvalue="Python.泰坦尼克号02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.泰坦尼克号02" />
         <item itemvalue="Python.泰坦尼克号" />
         <item itemvalue="Python.ut2" />
         <item itemvalue="Python.ut1" />
@@ -242,17 +288,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="195" width="1365" height="646" extended-state="0" />
+    <frame x="158" y="29" width="1365" height="830" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25720164" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27055305" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20504974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20504974" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -292,20 +338,6 @@
     <entry file="file://$PROJECT_DIR$/train.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ut1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ut2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/python3.6/Lib/site-packages/pandas/core/reshape/pivot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -315,18 +347,42 @@
     </entry>
     <entry file="file://D:/python3.6/Lib/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="5752" column="37" lean-forward="true" selection-start-line="5752" selection-start-column="37" selection-end-line="5752" selection-end-column="37" />
+        <state relative-caret-position="-77">
+          <caret line="6309" column="8" selection-start-line="6309" selection-start-column="8" selection-end-line="6309" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/泰坦尼克号.py">
+    <entry file="file://$PROJECT_DIR$/ut2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="168">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/泰坦尼克号01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/泰坦尼克号02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1316">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ut1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
